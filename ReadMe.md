@@ -4,7 +4,7 @@ A simple GunsLol page made by @M4Tback and updated by me!
 
 ## Example 🎨
 
-![image](image.png)
+![image](assets/image.png)
 
 ---
 
